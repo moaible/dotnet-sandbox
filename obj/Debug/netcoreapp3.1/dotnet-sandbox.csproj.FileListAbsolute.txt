@@ -1,0 +1,13 @@
+/workspace/dotnet-sandbox/bin/Debug/netcoreapp3.1/dotnet-sandbox
+/workspace/dotnet-sandbox/bin/Debug/netcoreapp3.1/dotnet-sandbox.deps.json
+/workspace/dotnet-sandbox/bin/Debug/netcoreapp3.1/dotnet-sandbox.runtimeconfig.json
+/workspace/dotnet-sandbox/bin/Debug/netcoreapp3.1/dotnet-sandbox.runtimeconfig.dev.json
+/workspace/dotnet-sandbox/bin/Debug/netcoreapp3.1/dotnet-sandbox.dll
+/workspace/dotnet-sandbox/bin/Debug/netcoreapp3.1/dotnet-sandbox.pdb
+/workspace/dotnet-sandbox/obj/Debug/netcoreapp3.1/dotnet-sandbox.csprojAssemblyReference.cache
+/workspace/dotnet-sandbox/obj/Debug/netcoreapp3.1/dotnet-sandbox.csproj.CoreCompileInputs.cache
+/workspace/dotnet-sandbox/obj/Debug/netcoreapp3.1/dotnet-sandbox.AssemblyInfoInputs.cache
+/workspace/dotnet-sandbox/obj/Debug/netcoreapp3.1/dotnet-sandbox.AssemblyInfo.cs
+/workspace/dotnet-sandbox/obj/Debug/netcoreapp3.1/dotnet-sandbox.dll
+/workspace/dotnet-sandbox/obj/Debug/netcoreapp3.1/dotnet-sandbox.pdb
+/workspace/dotnet-sandbox/obj/Debug/netcoreapp3.1/dotnet-sandbox.genruntimeconfig.cache
